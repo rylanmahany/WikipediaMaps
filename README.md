@@ -3,6 +3,7 @@ A desktop app that finds the shortest path from one wikipedia page to the anothe
 Skills: Web Crawlers, Search Algorithms, Python, UX Design
 
 Contains 4 files:
+
 README.md - A short explaination of the Repo
 
 Application.py - the Python code for the wikipediamaps app
