@@ -1,3 +1,4 @@
+#GUI application for WikipediaMaps
 import re
 from tkinter import *
 from PIL import ImageTk, Image
