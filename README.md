@@ -1,5 +1,6 @@
 # WikipediaMaps
 A desktop app that finds the shortest path from one wikipedia page to the another. 
+
 Skills: Web Crawlers, Search Algorithms, Python, UX Design
 
 Contains 4 files:
